@@ -1,0 +1,38 @@
+name: Job sweep
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes (GitHub may delay runs by a few minutes)
+  workflow_dispatch: {}       # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: job-sweep
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run sweep
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_EMAIL: ${{ secrets.NTFY_EMAIL }}
+        run: python sweep.py
+
+      - name: Save state
+        run: |
+          git config user.name "job-sweep-bot"
+          git config user.email "job-sweep-bot@users.noreply.github.com"
+          git add seen.json MATCHES.md
+          git diff --cached --quiet || git commit -m "Update sweep state"
+          git push
