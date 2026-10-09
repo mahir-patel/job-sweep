@@ -1,0 +1,34 @@
+{
+  "_note": "Job board slugs are best guesses. Boards that don't exist just show up as 'source error' lines in the Actions log; delete or fix them. Add more by copying the slug from a company's careers URL (boards.greenhouse.io/SLUG, jobs.lever.co/SLUG, jobs.ashbyhq.com/SLUG).",
+  "greenhouse": [
+    "stripe", "databricks", "cloudflare", "anthropic", "airbnb", "coinbase", "figma",
+    "reddit", "pinterest", "dropbox", "datadog", "mongodb", "okta", "twilio", "elastic",
+    "samsara", "affirm", "robinhood", "instacart", "asana", "gitlab", "hubspot",
+    "clio", "faire", "hootsuite", "wehrtyou", "optiver", "drweng", "twosigma",
+    "janestreet", "pointseventytwo", "nvidia", "waabi", "snyk", "vercel", "scaleai",
+    "duolingo", "squarespace", "lyft", "doordash", "block", "roblox", "unity3d",
+    "benchsci", "thinkific", "d2l", "ecobee", "visier", "unbounce", "absolutesoftware"
+  ],
+  "lever": [
+    "palantir", "kobo", "jobber", "sonder", "clearco", "ritual", "hopper"
+  ],
+  "ashby": [
+    "cohere", "wealthsimple", "ramp", "notion", "openai", "1password", "ada",
+    "linear", "replit", "perplexity", "mistral", "runway", "sierra"
+  ],
+  "names": {
+    "wehrtyou": "Hudson River Trading",
+    "drweng": "DRW",
+    "twosigma": "Two Sigma",
+    "janestreet": "Jane Street",
+    "pointseventytwo": "Point72",
+    "unity3d": "Unity",
+    "scaleai": "Scale AI",
+    "d2l": "D2L",
+    "openai": "OpenAI",
+    "1password": "1Password",
+    "hubspot": "HubSpot",
+    "doordash": "DoorDash",
+    "mongodb": "MongoDB"
+  }
+}
