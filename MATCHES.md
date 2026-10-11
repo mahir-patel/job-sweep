@@ -1,6 +1,6 @@
 # Current matches (136)
 
-Updated 2026-10-11 16:32 UTC
+Updated 2026-10-11 20:47 UTC
 
 | Company | Role | Location | Posted | Note | Apply |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@ Updated 2026-10-11 16:32 UTC
 | Khan Academy | Software Engineer Intern | Remote in Canada | posted 5 d ago |  | [link](https://job-boards.greenhouse.io/khanacademy/jobs/8250259) |
 | Hitachi Energy | Electrical Component Engineer Intern | Toronto, ON, Canada | posted 6 d ago |  | [link](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359) |
 | Semtech | Software Developer Co-op - Web/Cloud Application  (term unclear) | Richmond, BC, Canada | posted 6 d ago |  | [link](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644) |
-| Lyft | Hardware Field Quality Engineer Intern (Summer 2027) | Longueuil, Canada | posted 8 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) |
+| Lyft | Hardware Field Quality Engineer Intern (Summer 2027) | Longueuil, Canada | posted 9 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) |
 | Hitachi Energy | Hardware Test Engineering Intern | Toronto, ON, Canada | posted 9 d ago |  | [link](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
 | Marvell | Firmware Engineer Intern Co-op | Toronto, ON, Canada | posted 9 d ago |  | [link](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959) |
 | Pinterest | Machine Learning Intern | Toronto, ON, Canada | posted 9 d ago |  | [link](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) |
@@ -46,7 +46,7 @@ Updated 2026-10-11 16:32 UTC
 | Lyft | Business Systems Engineer Intern, Finance Technology (Summer 2027) | Toronto, Canada | posted 12 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002) |
 | Acuity | Firmware Development Intern  (term unclear) | Brossard, QC, Canada | posted 15 d ago |  | [link](https://careers.acuityinc.com/job/Brossard-Stage-en-d%C3%A9veloppement-micrologicielfirmware-Qu%C3%A9b-J4Y-0C4/1434107300/?ats=successfactors) |
 | Acuity | Hardware Development Intern - Hardware  (term unclear) | Brossard, QC, Canada | posted 16 d ago |  | [link](https://careers.acuityinc.com/job/Brossard-Stagiaire-d%C3%A9veloppement-mat%C3%A9riel-(hardware)-Qu%C3%A9b-J4Y-0C4/1433678100/?ats=successfactors) |
-| Lyft | Content Systems Intern (Summer 2027) | Toronto, Canada | posted 16 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002) |
+| Lyft | Content Systems Intern (Summer 2027) | Toronto, Canada | posted 17 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002) |
 | Semtech | Validation Engineering Intern - Signal Integrity Products Group | Burlington, ON, Canada | posted 17 d ago |  | [link](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Validation-Engineering-Intern_REQ3628) |
 | Semtech | Analog Design Engineer Intern | Calgary, AB, Canada | posted 17 d ago |  | [link](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3623) |
 | Semtech | Firmware Intern | Ottawa, ON, Canada | posted 17 d ago |  | [link](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) |
@@ -90,7 +90,7 @@ Updated 2026-10-11 16:32 UTC
 | Nokia | Incubation Developer Student Intern  (term unclear) | Ottawa, ON, Canada | posted 25 d ago |  | [link](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39968) |
 | DoorDash | Software Engineer Intern | Toronto, ON, Canada | posted 26 d ago |  | [link](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944) |
 | Superhuman | Software Engineer Intern | Toronto, ON, Canada | posted 26 d ago |  | [link](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application?embed=true) |
-| Google | Student Researcher - BS/MS  (term unclear) | Montreal, QC, Canada | posted 26 d ago |  | [link](https://www.google.com/about/careers/applications/jobs/results/104405499448828614) |
+| Google | Student Researcher - BS/MS  (term unclear) | Montreal, QC, Canada | posted 27 d ago |  | [link](https://www.google.com/about/careers/applications/jobs/results/104405499448828614) |
 | Robinhood | Software Developer Intern, Web (Summer 2027) | Toronto, Canada | posted 27 d ago |  | [link](https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744) |
 | Robinhood | Software Developer Intern, Backend (Summer 2027) | Toronto, Canada | posted 27 d ago |  | [link](https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930) |
 | Robinhood | Software Developer Intern, iOS (Summer 2027) | Toronto, Canada | posted 27 d ago |  | [link](https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729) |
@@ -104,8 +104,8 @@ Updated 2026-10-11 16:32 UTC
 | Lyft | Data Engineer Intern | Toronto, ON, Canada | posted 29 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) |
 | Lyft | Data Science Intern - Algorithms | Toronto, ON, Canada | posted 29 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) |
 | Lyft | Software Developer Intern - Backend  (term unclear) | Montreal, QC, Canada | posted 29 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002) |
-| Lyft | UX Research Intern (Summer 2027) | Toronto, Canada | posted 29 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002) |
-| Lyft | Software Engineer Intern, Test Automation (Summer 2027) | Montreal, Canada | posted 29 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) |
+| Lyft | UX Research Intern (Summer 2027) | Toronto, Canada | posted 30 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002) |
+| Lyft | Software Engineer Intern, Test Automation (Summer 2027) | Montreal, Canada | posted 30 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) |
 | L3Harris Technologies | Electro-Optical Engineering Co-op | Waterdown, Hamilton, ON, Canada | posted 31 d ago |  | [link](https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428468700/?ats=successfactors) |
 | Hexagon AB | Digital Hardware Engineer Intern - GNSS Positioning Digital Team | Calgary, AB, Canada | posted 31 d ago |  | [link](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false) |
 | Bird Construction | Business Intelligence Student  (term unclear) | Winnipeg, MB, Canada, Calgary, AB, Canada | posted 33 d ago |  | [link](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521) |
@@ -128,7 +128,7 @@ Updated 2026-10-11 16:32 UTC
 | AMD | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | posted 40 d ago |  | [link](https://careers.amd.com/jobs/91359?icims=1) |
 | Trane Technologies | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada | posted 40 d ago |  | [link](https://careers.tranetechnologies.com/global/en/job/JR-7608) |
 | Marsh | Summer Analyst Intern - Data and Analytics | Toronto, ON, Canada | posted 45 d ago |  | [link](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1) |
-| Elk Valley Resources | Geographic Information Systems Co-op | Calgary, AB, Canada | posted 45 d ago |  | [link](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) |
+| Elk Valley Resources | Geographic Information Systems Co-op | Calgary, AB, Canada | posted 46 d ago |  | [link](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) |
 | Google | Software Developer Intern | Montreal, QC, Canada, Toronto, ON, Canada | posted 48 d ago |  | [link](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
 | Epic Games | Machine Learning Intern | Canada | posted 64 d ago |  | [link](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) |
 | Epic Games | Machine Learning Intern - Special Projects - Epic Research Group | Montreal, QC, Canada | posted 64 d ago |  | [link](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
