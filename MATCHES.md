@@ -1,6 +1,6 @@
-# Current matches (136)
+# Current matches (135)
 
-Updated 2026-10-12 00:12 UTC
+Updated 2026-10-12 06:17 UTC
 
 | Company | Role | Location | Posted | Note | Apply |
 |---|---|---|---|---|---|
@@ -16,12 +16,12 @@ Updated 2026-10-12 00:12 UTC
 | Varian | Software Developer Co-op  (term unclear) | Winnipeg, MB, Canada | posted 5 d ago |  | [link](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142) |
 | Motorola | Software Developer – Embedded Appliances Co-op  (term unclear) | Vancouver, BC, Canada | posted 5 d ago |  | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer--Embedded-Appliances-Co-Op_R69581) |
 | Tenstorrent | Hardware Intern - AI HW & System on a Chip  (term unclear) | Toronto, ON, Canada, Ottawa, ON, Canada | posted 5 d ago |  | [link](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) |
-| Astera Labs | Platform Applications Engineer Intern Co-op - Tools Development Engineer - COSMOS Platform Software  (term unclear) | Vancouver, BC, Canada | posted 5 d ago |  | [link](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005) |
-| Astera Labs | Physical Design Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 5 d ago |  | [link](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005) |
-| Astera Labs | System Validation Engineer Intern  (term unclear) | Vancouver, BC, Canada | posted 5 d ago |  | [link](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729021005) |
-| Astera Labs | Design-for-Test Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 5 d ago |  | [link](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728387005) |
-| Astera Labs | Design Verification Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 5 d ago |  | [link](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731392005) |
-| Astera Labs | Digital Design Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 5 d ago |  | [link](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731399005) |
+| Astera Labs | Platform Applications Engineer Intern Co-op - Tools Development Engineer - COSMOS Platform Software  (term unclear) | Vancouver, BC, Canada | posted 6 d ago |  | [link](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005) |
+| Astera Labs | Physical Design Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 6 d ago |  | [link](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005) |
+| Astera Labs | System Validation Engineer Intern  (term unclear) | Vancouver, BC, Canada | posted 6 d ago |  | [link](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729021005) |
+| Astera Labs | Design-for-Test Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 6 d ago |  | [link](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728387005) |
+| Astera Labs | Design Verification Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 6 d ago |  | [link](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731392005) |
+| Astera Labs | Digital Design Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 6 d ago |  | [link](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731399005) |
 | Lumentum | Embedded Software Engineer Co-op Intern  (term unclear) | Ottawa, ON, Canada | posted 6 d ago |  | [link](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370) |
 | CAE | Data Specialist Intern  (term unclear) | Montreal, QC, Canada | posted 6 d ago |  | [link](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901) |
 | CAE | Artificial Intelligence Intern  (term unclear) | Montreal, QC, Canada | posted 6 d ago |  | [link](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire----Intelligence-artificielle_123902) |
@@ -74,22 +74,22 @@ Updated 2026-10-12 00:12 UTC
 | Qualcomm | IP Applications Engineering Intern - Interim Engineering Intern - HW | Toronto, ON, Canada | posted 23 d ago |  | [link](https://qualcomm.eightfold.ai/careers/job/446721156615) |
 | NERv Technology Inc. D.B.A. FluidAI Medical | Data and AI Engineering Associate  (term unclear) | Kitchener, ON, Canada | posted 23 d ago |  | [link](https://ats.rippling.com/fluidai-medical-careers/jobs/e52b9e0d-0c04-42be-8da6-288203e18e52) |
 | Amazon | Software Development Engineer Intern - Summer 2027 | Vancouver, BC, Canada | posted 23 d ago |  | [link](https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) |
-| Qualcomm | Low Power AI Software Development Intern - Interim Engineering Intern - Software | Markham, ON, Canada | posted 23 d ago |  | [link](https://qualcomm.eightfold.ai/careers/job/446721143440) |
-| TRC Companies | Software Engineer Intern | Calgary, AB, Canada | posted 23 d ago |  | [link](https://careers.trccompanies.com/jobs/26840?icims=1) |
+| Qualcomm | Low Power AI Software Development Intern - Interim Engineering Intern - Software | Markham, ON, Canada | posted 24 d ago |  | [link](https://qualcomm.eightfold.ai/careers/job/446721143440) |
+| TRC Companies | Software Engineer Intern | Calgary, AB, Canada | posted 24 d ago |  | [link](https://careers.trccompanies.com/jobs/26840?icims=1) |
 | Sun Life | Full Stack Developer Intern  (term unclear) | Toronto, ON, Canada | posted 24 d ago |  | [link](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Waterford-Waterford-Ireland/Student--Full-Stack-Developer_JR00126897) |
 | Tower Research Capital | Software Developer Intern | Montreal, QC, Canada | posted 24 d ago |  | [link](https://www.tower-research.com/open-positions/?gh_jid=8212179) |
 | Qualcomm | Firmware Engineer Intern - Embedded Software Engineering - Embedded Firmware and SDK Development | Toronto, ON, Canada | posted 24 d ago |  | [link](https://qualcomm.eightfold.ai/careers/job/446721141411) |
 | Qualcomm | Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW | Toronto, ON, Canada | posted 24 d ago |  | [link](https://qualcomm.eightfold.ai/careers/job/446721142985) |
 | Qualcomm | Analog Design Intern - Hardware Engineering | Toronto, ON, Canada | posted 24 d ago |  | [link](https://qualcomm.eightfold.ai/careers/job/446721140914) |
 | Apera AI | Software Developer Co-op - Full Stack | Vancouver, BC, Canada | posted 25 d ago |  | [link](https://job-boards.greenhouse.io/aperaaiinc/jobs/5240259007) |
-| Apera AI | Software Developer Co-op - C++ | Vancouver, BC, Canada | posted 25 d ago |  | [link](https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007) |
-| Apera AI | Machine Learning Applied Scientist Co-op | Vancouver, BC, Canada | posted 25 d ago |  | [link](https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007) |
+| Apera AI | Software Developer Co-op - C++ | Vancouver, BC, Canada | posted 26 d ago |  | [link](https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007) |
+| Apera AI | Machine Learning Applied Scientist Co-op | Vancouver, BC, Canada | posted 26 d ago |  | [link](https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007) |
 | Farm Credit Canada | Data Analyst Student - Valuations  (term unclear) | Drummondville, QC, Canada, Montreal, QC, Canada | posted 26 d ago |  | [link](https://fccfac.wd3.myworkdayjobs.com/careers-carrieres/job/Regina-Saskatchewan/Student--Data-Analyst--Valuations-_R-1008821) |
 | Farm Credit Canada | Data Analyst Student - Business Reporting  (term unclear) | Regina, SK, Canada | posted 26 d ago |  | [link](https://fccfac.wd3.myworkdayjobs.com/careers-carrieres/job/Regina-Saskatchewan/Student--Data-Analyst--Business-Reporting-_R-1008822-1) |
 | Qualcomm | Sensors Subsystem Engineering Intern - Low-Power AI - Audio | Markham, ON, Canada | posted 26 d ago |  | [link](https://qualcomm.eightfold.ai/careers/job/446721109229) |
 | Nokia | Incubation Developer Student Intern  (term unclear) | Ottawa, ON, Canada | posted 26 d ago |  | [link](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39968) |
-| DoorDash | Software Engineer Intern | Toronto, ON, Canada | posted 26 d ago |  | [link](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944) |
-| Superhuman | Software Engineer Intern | Toronto, ON, Canada | posted 26 d ago |  | [link](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application?embed=true) |
+| DoorDash | Software Engineer Intern | Toronto, ON, Canada | posted 27 d ago |  | [link](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944) |
+| Superhuman | Software Engineer Intern | Toronto, ON, Canada | posted 27 d ago |  | [link](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application?embed=true) |
 | Google | Student Researcher - BS/MS  (term unclear) | Montreal, QC, Canada | posted 27 d ago |  | [link](https://www.google.com/about/careers/applications/jobs/results/104405499448828614) |
 | Robinhood | Software Developer Intern, Web (Summer 2027) | Toronto, Canada | posted 27 d ago |  | [link](https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744) |
 | Robinhood | Software Developer Intern, Backend (Summer 2027) | Toronto, Canada | posted 27 d ago |  | [link](https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930) |
@@ -109,9 +109,9 @@ Updated 2026-10-12 00:12 UTC
 | L3Harris Technologies | Electro-Optical Engineering Co-op | Waterdown, Hamilton, ON, Canada | posted 31 d ago |  | [link](https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428468700/?ats=successfactors) |
 | Hexagon AB | Digital Hardware Engineer Intern - GNSS Positioning Digital Team | Calgary, AB, Canada | posted 32 d ago |  | [link](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false) |
 | Bird Construction | Business Intelligence Student  (term unclear) | Winnipeg, MB, Canada, Calgary, AB, Canada | posted 34 d ago |  | [link](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521) |
-| Mirego | Software Developer Intern  (term unclear) | Québec City, QC, Canada | posted 38 d ago |  | [link](https://jobs.lever.co/mirego/b5d63a2b-c4b6-4a14-9e2a-bb8a23ed92b1/apply) |
-| AMD | ASIC Verification Engineer Intern/Co-op | Ottawa, ON, Canada | posted 38 d ago |  | [link](https://careers.amd.com/jobs/91207?icims=1) |
-| Atlassian | Software Engineer Intern | Burnaby, BC, Canada, Vancouver, BC, Canada | posted 38 d ago |  | [link](https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job) |
+| Mirego | Software Developer Intern  (term unclear) | Québec City, QC, Canada | posted 39 d ago |  | [link](https://jobs.lever.co/mirego/b5d63a2b-c4b6-4a14-9e2a-bb8a23ed92b1/apply) |
+| AMD | ASIC Verification Engineer Intern/Co-op | Ottawa, ON, Canada | posted 39 d ago |  | [link](https://careers.amd.com/jobs/91207?icims=1) |
+| Atlassian | Software Engineer Intern | Burnaby, BC, Canada, Vancouver, BC, Canada | posted 39 d ago |  | [link](https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job) |
 | AMD | Firmware Engineer Intern/Co-op | Markham, ON, Canada | posted 40 d ago |  | [link](https://careers.amd.com/jobs/91320?icims=1) |
 | AMD | Firmware Engineer Intern/Co-op | Vancouver, BC, Canada | posted 40 d ago |  | [link](https://careers.amd.com/jobs/90301?icims=1) |
 | AMD | Hardware Design Engineer Intern/Co-op - Long Term | Markham, ON, Canada | posted 40 d ago |  | [link](https://careers.amd.com/jobs/90367?icims=1) |
@@ -126,8 +126,7 @@ Updated 2026-10-12 00:12 UTC
 | AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | posted 40 d ago |  | [link](https://careers.amd.com/jobs/91363?icims=1) |
 | AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | posted 40 d ago |  | [link](https://careers.amd.com/jobs/90383?icims=1) |
 | AMD | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | posted 40 d ago |  | [link](https://careers.amd.com/jobs/91359?icims=1) |
-| Trane Technologies | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada | posted 40 d ago |  | [link](https://careers.tranetechnologies.com/global/en/job/JR-7608) |
-| Marsh | Summer Analyst Intern - Data and Analytics | Toronto, ON, Canada | posted 46 d ago |  | [link](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1) |
+| Trane Technologies | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada | posted 41 d ago |  | [link](https://careers.tranetechnologies.com/global/en/job/JR-7608) |
 | Elk Valley Resources | Geographic Information Systems Co-op | Calgary, AB, Canada | posted 46 d ago |  | [link](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) |
 | Google | Software Developer Intern | Montreal, QC, Canada, Toronto, ON, Canada | posted 48 d ago |  | [link](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
 | Epic Games | Machine Learning Intern | Canada | posted 65 d ago |  | [link](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) |
@@ -138,5 +137,5 @@ Updated 2026-10-12 00:12 UTC
 | AMD | Analog/Mixed-Signal Serdes Design Engineer  (term unclear) | Markham, ON, Canada, Ottawa, ON, Canada | posted 87 d ago |  | [link](https://careers.amd.com/jobs/86868?icims=1) |
 | DRW | Software Developer Intern  (year not stated) | Montreal | posted 90 d ago |  | [link](https://job-boards.greenhouse.io/drweng/jobs/7991196) |
 | DRW | AI/ML Research Intern  (year not stated) | Montreal | posted 90 d ago |  | [link](https://job-boards.greenhouse.io/drweng/jobs/7991171) |
-| Anthropic | Anthropic Fellows Program - ML Systems & Performance  (term unclear) | Remote in Canada | posted 184 d ago |  | [link](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) |
-| Anthropic | Anthropic Fellows Program - AI Safety  (term unclear) | Ontario, Canada | posted 184 d ago |  | [link](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) |
+| Anthropic | Anthropic Fellows Program - ML Systems & Performance  (term unclear) | Remote in Canada | posted 185 d ago |  | [link](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) |
+| Anthropic | Anthropic Fellows Program - AI Safety  (term unclear) | Ontario, Canada | posted 185 d ago |  | [link](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) |
