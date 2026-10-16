@@ -1,10 +1,10 @@
 # Current matches (145)
 
-Updated 2026-10-16 18:15 UTC
+Updated 2026-10-16 19:42 UTC
 
 | Company | Role | Location | Posted | Note | Apply |
 |---|---|---|---|---|---|
-| Moment Energy | Test Engineering Co-op  (term unclear) | Surrey, BC, Canada | posted 16 h ago |  | [link](https://job-boards.greenhouse.io/momentenergy/jobs/4455115009) |
+| Moment Energy | Test Engineering Co-op  (term unclear) | Surrey, BC, Canada | posted 18 h ago |  | [link](https://job-boards.greenhouse.io/momentenergy/jobs/4455115009) |
 | Intel | Compiler Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 1 d ago |  | [link](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) |
 | Altera | FPGA IP Design Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 1 d ago |  | [link](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----Intern_R03324) |
 | Kensington | Analytics Intern  (term unclear) | Toronto, ON, Canada | posted 1 d ago |  | [link](https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007) |
