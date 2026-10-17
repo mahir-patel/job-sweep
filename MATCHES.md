@@ -1,16 +1,16 @@
 # Current matches (154)
 
-Updated 2026-10-17 15:16 UTC
+Updated 2026-10-17 17:53 UTC
 
 | Company | Role | Location | Posted | Note | Apply |
 |---|---|---|---|---|---|
-| Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada | posted 16 h ago |  | [link](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) |
-| Eaton | C++ Developer Intern - Research & Development Engineering  (term unclear) | Brossard, QC, Canada | posted 16 h ago |  | [link](https://eaton.eightfold.ai/careers/job/687239542740) |
-| Synopsys | Technical-Engineering Intern | Mississauga, ON, Canada | posted 16 h ago |  | [link](https://synopsys.avature.net/careers/JobDetail/19195) |
-| Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | posted 16 h ago |  | [link](https://qualcomm.eightfold.ai/careers/job/446721615591) |
-| KPMG | AI Builder Intern/Co-op  (term unclear) | Toronto, ON, Canada | posted 16 h ago |  | [link](https://careers.kpmg.ca/jobs/34407?icims=1) |
-| Electronic Arts | Analytics Intern | Vancouver, BC, Canada | posted 17 h ago |  | [link](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232) |
-| Electronic Arts | AI/ML Software Engineer Co-op Intern | Vancouver, BC, Canada | posted 17 h ago |  | [link](https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234) |
+| Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada | posted 19 h ago |  | [link](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) |
+| Eaton | C++ Developer Intern - Research & Development Engineering  (term unclear) | Brossard, QC, Canada | posted 19 h ago |  | [link](https://eaton.eightfold.ai/careers/job/687239542740) |
+| Synopsys | Technical-Engineering Intern | Mississauga, ON, Canada | posted 19 h ago |  | [link](https://synopsys.avature.net/careers/JobDetail/19195) |
+| Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | posted 19 h ago |  | [link](https://qualcomm.eightfold.ai/careers/job/446721615591) |
+| KPMG | AI Builder Intern/Co-op  (term unclear) | Toronto, ON, Canada | posted 19 h ago |  | [link](https://careers.kpmg.ca/jobs/34407?icims=1) |
+| Electronic Arts | Analytics Intern | Vancouver, BC, Canada | posted 19 h ago |  | [link](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232) |
+| Electronic Arts | AI/ML Software Engineer Co-op Intern | Vancouver, BC, Canada | posted 19 h ago |  | [link](https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234) |
 | Moment Energy | Test Engineering Co-op  (term unclear) | Surrey, BC, Canada | posted 1 d ago |  | [link](https://job-boards.greenhouse.io/momentenergy/jobs/4455115009) |
 | Altera | Software Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 1 d ago |  | [link](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320) |
 | Intel | Compiler Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 2 d ago |  | [link](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) |
@@ -122,8 +122,8 @@ Updated 2026-10-17 15:16 UTC
 | Lyft | Data Engineer Intern | Toronto, ON, Canada | posted 35 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) |
 | Lyft | Data Science Intern - Algorithms | Toronto, ON, Canada | posted 35 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) |
 | Lyft | Software Developer Intern - Backend  (term unclear) | Montreal, QC, Canada | posted 35 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002) |
-| Lyft | UX Research Intern (Summer 2027) | Toronto, Canada | posted 35 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002) |
-| Lyft | Software Engineer Intern, Test Automation (Summer 2027) | Montreal, Canada | posted 35 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) |
+| Lyft | UX Research Intern (Summer 2027) | Toronto, Canada | posted 36 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002) |
+| Lyft | Software Engineer Intern, Test Automation (Summer 2027) | Montreal, Canada | posted 36 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) |
 | L3Harris Technologies | Electro-Optical Engineering Co-op | Waterdown, Hamilton, ON, Canada | posted 37 d ago |  | [link](https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428468700/?ats=successfactors) |
 | Hexagon AB | Digital Hardware Engineer Intern - GNSS Positioning Digital Team | Calgary, AB, Canada | posted 37 d ago |  | [link](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false) |
 | Bird Construction | Business Intelligence Student  (term unclear) | Winnipeg, MB, Canada, Calgary, AB, Canada | posted 39 d ago |  | [link](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521) |
@@ -157,4 +157,4 @@ Updated 2026-10-17 15:16 UTC
 | DRW | AI/ML Research Intern  (year not stated) | Montreal | posted 96 d ago |  | [link](https://job-boards.greenhouse.io/drweng/jobs/7991171) |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance  (term unclear) | Remote in Canada | posted 190 d ago |  | [link](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) |
 | Anthropic | Anthropic Fellows Program - AI Safety  (term unclear) | Ontario, Canada | posted 190 d ago |  | [link](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) |
-| Databricks | Software Engineering Intern (2027) | Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada | posted 1169 d ago |  | [link](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
+| Databricks | Software Engineering Intern (2027) | Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada | posted 1170 d ago |  | [link](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
