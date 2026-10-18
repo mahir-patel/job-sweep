@@ -1,16 +1,16 @@
 # Current matches (155)
 
-Updated 2026-10-18 09:46 UTC
+Updated 2026-10-18 13:45 UTC
 
 | Company | Role | Location | Posted | Note | Apply |
 |---|---|---|---|---|---|
-| Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada | posted 35 h ago |  | [link](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) |
-| Eaton | C++ Developer Intern - Research & Development Engineering  (term unclear) | Brossard, QC, Canada | posted 35 h ago |  | [link](https://eaton.eightfold.ai/careers/job/687239542740) |
-| Synopsys | Technical-Engineering Intern | Mississauga, ON, Canada | posted 35 h ago |  | [link](https://synopsys.avature.net/careers/JobDetail/19195) |
-| Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | posted 35 h ago |  | [link](https://qualcomm.eightfold.ai/careers/job/446721615591) |
-| KPMG | AI Builder Intern/Co-op  (term unclear) | Toronto, ON, Canada | posted 35 h ago |  | [link](https://careers.kpmg.ca/jobs/34407?icims=1) |
-| Electronic Arts | Analytics Intern | Vancouver, BC, Canada | posted 35 h ago |  | [link](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232) |
-| Electronic Arts | AI/ML Software Engineer Co-op Intern | Vancouver, BC, Canada | posted 35 h ago |  | [link](https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234) |
+| Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada | posted 1 d ago |  | [link](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) |
+| Eaton | C++ Developer Intern - Research & Development Engineering  (term unclear) | Brossard, QC, Canada | posted 1 d ago |  | [link](https://eaton.eightfold.ai/careers/job/687239542740) |
+| Synopsys | Technical-Engineering Intern | Mississauga, ON, Canada | posted 1 d ago |  | [link](https://synopsys.avature.net/careers/JobDetail/19195) |
+| Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | posted 1 d ago |  | [link](https://qualcomm.eightfold.ai/careers/job/446721615591) |
+| KPMG | AI Builder Intern/Co-op  (term unclear) | Toronto, ON, Canada | posted 1 d ago |  | [link](https://careers.kpmg.ca/jobs/34407?icims=1) |
+| Electronic Arts | Analytics Intern | Vancouver, BC, Canada | posted 1 d ago |  | [link](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232) |
+| Electronic Arts | AI/ML Software Engineer Co-op Intern | Vancouver, BC, Canada | posted 1 d ago |  | [link](https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234) |
 | Moment Energy | Test Engineering Co-op  (term unclear) | Surrey, BC, Canada | posted 2 d ago |  | [link](https://job-boards.greenhouse.io/momentenergy/jobs/4455115009) |
 | Altera | Software Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 2 d ago |  | [link](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320) |
 | Intel | Compiler Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 3 d ago |  | [link](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) |
@@ -129,20 +129,20 @@ Updated 2026-10-18 09:46 UTC
 | Bird Construction | Business Intelligence Student  (term unclear) | Winnipeg, MB, Canada, Calgary, AB, Canada | posted 40 d ago |  | [link](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521) |
 | AMD | ASIC Verification Engineer Intern/Co-op | Ottawa, ON, Canada | posted 45 d ago |  | [link](https://careers.amd.com/jobs/91207?icims=1) |
 | Atlassian | Software Engineer Intern | Burnaby, BC, Canada, Vancouver, BC, Canada | posted 45 d ago |  | [link](https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job) |
-| AMD | Firmware Engineer Intern/Co-op | Markham, ON, Canada | posted 46 d ago |  | [link](https://careers.amd.com/jobs/91320?icims=1) |
-| AMD | Firmware Engineer Intern/Co-op | Vancouver, BC, Canada | posted 46 d ago |  | [link](https://careers.amd.com/jobs/90301?icims=1) |
-| AMD | Hardware Design Engineer Intern/Co-op - Long Term | Markham, ON, Canada | posted 46 d ago |  | [link](https://careers.amd.com/jobs/90367?icims=1) |
-| AMD | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | posted 46 d ago |  | [link](https://careers.amd.com/jobs/90305?icims=1) |
-| AMD | Firmware Engineer Intern/Co-op | Vancouver, BC, Canada | posted 46 d ago |  | [link](https://careers.amd.com/jobs/91313?icims=1) |
-| AMD | Firmware Engineer Intern/Co-op - Long Term | Markham, ON, Canada | posted 46 d ago |  | [link](https://careers.amd.com/jobs/90297?icims=1) |
-| AMD | Analog and Mixed Signal Engineer Intern/Co-op | Markham, ON, Canada | posted 46 d ago |  | [link](https://careers.amd.com/jobs/91369?icims=1) |
-| AMD | Hardware Design Engineer Intern/Co-op | Vancouver, BC, Canada | posted 46 d ago |  | [link](https://careers.amd.com/jobs/90372?icims=1) |
-| AMD | Diagnostics Design Engineer Intern/Co-op | Markham, ON, Canada | posted 46 d ago |  | [link](https://careers.amd.com/jobs/90435?icims=1) |
-| AMD | Software Engineer Intern/Co-op | Vancouver, BC, Canada | posted 46 d ago |  | [link](https://careers.amd.com/jobs/91367?icims=1) |
-| AMD | AGS Libraries Intern/Co-op | Calgary, AB, Canada | posted 46 d ago |  | [link](https://careers.amd.com/jobs/90427?icims=1) |
-| AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | posted 46 d ago |  | [link](https://careers.amd.com/jobs/91363?icims=1) |
-| AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | posted 46 d ago |  | [link](https://careers.amd.com/jobs/90383?icims=1) |
-| AMD | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | posted 46 d ago |  | [link](https://careers.amd.com/jobs/91359?icims=1) |
+| AMD | Firmware Engineer Intern/Co-op | Markham, ON, Canada | posted 47 d ago |  | [link](https://careers.amd.com/jobs/91320?icims=1) |
+| AMD | Firmware Engineer Intern/Co-op | Vancouver, BC, Canada | posted 47 d ago |  | [link](https://careers.amd.com/jobs/90301?icims=1) |
+| AMD | Hardware Design Engineer Intern/Co-op - Long Term | Markham, ON, Canada | posted 47 d ago |  | [link](https://careers.amd.com/jobs/90367?icims=1) |
+| AMD | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | posted 47 d ago |  | [link](https://careers.amd.com/jobs/90305?icims=1) |
+| AMD | Firmware Engineer Intern/Co-op | Vancouver, BC, Canada | posted 47 d ago |  | [link](https://careers.amd.com/jobs/91313?icims=1) |
+| AMD | Firmware Engineer Intern/Co-op - Long Term | Markham, ON, Canada | posted 47 d ago |  | [link](https://careers.amd.com/jobs/90297?icims=1) |
+| AMD | Analog and Mixed Signal Engineer Intern/Co-op | Markham, ON, Canada | posted 47 d ago |  | [link](https://careers.amd.com/jobs/91369?icims=1) |
+| AMD | Hardware Design Engineer Intern/Co-op | Vancouver, BC, Canada | posted 47 d ago |  | [link](https://careers.amd.com/jobs/90372?icims=1) |
+| AMD | Diagnostics Design Engineer Intern/Co-op | Markham, ON, Canada | posted 47 d ago |  | [link](https://careers.amd.com/jobs/90435?icims=1) |
+| AMD | Software Engineer Intern/Co-op | Vancouver, BC, Canada | posted 47 d ago |  | [link](https://careers.amd.com/jobs/91367?icims=1) |
+| AMD | AGS Libraries Intern/Co-op | Calgary, AB, Canada | posted 47 d ago |  | [link](https://careers.amd.com/jobs/90427?icims=1) |
+| AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | posted 47 d ago |  | [link](https://careers.amd.com/jobs/91363?icims=1) |
+| AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | posted 47 d ago |  | [link](https://careers.amd.com/jobs/90383?icims=1) |
+| AMD | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | posted 47 d ago |  | [link](https://careers.amd.com/jobs/91359?icims=1) |
 | Trane Technologies | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada | posted 47 d ago |  | [link](https://careers.tranetechnologies.com/global/en/job/JR-7608) |
 | Elk Valley Resources | Geographic Information Systems Co-op | Calgary, AB, Canada | posted 52 d ago |  | [link](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) |
 | Google | Software Developer Intern | Montreal, QC, Canada, Toronto, ON, Canada | posted 54 d ago |  | [link](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
