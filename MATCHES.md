@@ -1,11 +1,13 @@
-# Current matches (155)
+# Current matches (157)
 
-Updated 2026-10-20 10:54 UTC
+Updated 2026-10-20 15:33 UTC
 
 | Company | Role | Location | Posted | Note | Apply |
 |---|---|---|---|---|---|
-| Citco | Software Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 12 h ago |  | [link](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964) |
-| Qualcomm | Machine Learning AISW Intern | Markham, ON, Canada | posted 12 h ago |  | [link](https://qualcomm.eightfold.ai/careers/job/446721636765) |
+| Steel | Software Engineer Intern | Toronto, ON, Canada | posted 80 min ago |  | [link](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) |
+| GeoSpectrum Technologies | Software Developer Co-op  (term unclear) | Dartmouth, NS, Canada | posted 82 min ago |  | [link](https://geospectrum.bamboohr.com/careers/286/) |
+| Citco | Software Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 17 h ago |  | [link](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964) |
+| Qualcomm | Machine Learning AISW Intern | Markham, ON, Canada | posted 17 h ago |  | [link](https://qualcomm.eightfold.ai/careers/job/446721636765) |
 | Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada | posted 3 d ago |  | [link](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) |
 | Synopsys | Technical-Engineering Intern | Mississauga, ON, Canada | posted 3 d ago |  | [link](https://synopsys.avature.net/careers/JobDetail/19195) |
 | Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | posted 3 d ago |  | [link](https://qualcomm.eightfold.ai/careers/job/446721615591) |
@@ -46,7 +48,7 @@ Updated 2026-10-20 10:54 UTC
 | Autodesk | Research Intern - AI Research | Toronto, ON, Canada | posted 13 d ago |  | [link](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1) |
 | Autodesk | Research Intern - AI Research | Toronto, ON, Canada | posted 13 d ago |  | [link](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373) |
 | Varian | Software Developer Co-op  (term unclear) | Winnipeg, MB, Canada | posted 13 d ago |  | [link](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142) |
-| Tenstorrent | Hardware Intern - AI HW & System on a Chip  (term unclear) | Toronto, ON, Canada, Ottawa, ON, Canada | posted 13 d ago |  | [link](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) |
+| Tenstorrent | Hardware Intern - AI HW & System on a Chip  (term unclear) | Toronto, ON, Canada, Ottawa, ON, Canada | posted 14 d ago |  | [link](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) |
 | Astera Labs | Platform Applications Engineer Intern Co-op - Tools Development Engineer - COSMOS Platform Software  (term unclear) | Vancouver, BC, Canada | posted 14 d ago |  | [link](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005) |
 | Astera Labs | Physical Design Engineer Intern  (term unclear) | Toronto, ON, Canada | posted 14 d ago |  | [link](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005) |
 | Astera Labs | System Validation Engineer Intern  (term unclear) | Vancouver, BC, Canada | posted 14 d ago |  | [link](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729021005) |
@@ -65,7 +67,7 @@ Updated 2026-10-20 10:54 UTC
 | Hitachi Energy | Hardware Test Engineering Intern | Toronto, ON, Canada | posted 18 d ago |  | [link](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) |
 | Marvell | Firmware Engineer Intern Co-op | Toronto, ON, Canada | posted 18 d ago |  | [link](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959) |
 | Pinterest | Machine Learning Intern | Toronto, ON, Canada | posted 18 d ago |  | [link](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) |
-| Stripe | Data Analyst, Intern  (year not stated) | Toronto | posted 18 d ago |  | [link](https://stripe.com/jobs/search?gh_jid=8194287) |
+| Stripe | Data Analyst, Intern  (year not stated) | Toronto | posted 19 d ago |  | [link](https://stripe.com/jobs/search?gh_jid=8194287) |
 | Autodesk | Software Development Intern | Toronto, ON, Canada | posted 19 d ago |  | [link](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1) |
 | Autodesk | Software Developer Intern | Toronto, ON, Canada | posted 19 d ago |  | [link](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436) |
 | Haven Studios | Technical Design Intern  (term unclear) | Montreal, QC, Canada | posted 20 d ago |  | [link](https://job-boards.greenhouse.io/haven/jobs/6210694004) |
@@ -123,7 +125,7 @@ Updated 2026-10-20 10:54 UTC
 | Lyft | Software Developer Intern - Backend  (term unclear) | Montreal, QC, Canada | posted 38 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002) |
 | Lyft | UX Research Intern (Summer 2027) | Toronto, Canada | posted 38 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002) |
 | Lyft | Software Engineer Intern, Test Automation (Summer 2027) | Montreal, Canada | posted 38 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) |
-| L3Harris Technologies | Electro-Optical Engineering Co-op | Waterdown, Hamilton, ON, Canada | posted 39 d ago |  | [link](https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428468700/?ats=successfactors) |
+| L3Harris Technologies | Electro-Optical Engineering Co-op | Waterdown, Hamilton, ON, Canada | posted 40 d ago |  | [link](https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428468700/?ats=successfactors) |
 | Hexagon AB | Digital Hardware Engineer Intern - GNSS Positioning Digital Team | Calgary, AB, Canada | posted 40 d ago |  | [link](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false) |
 | Bird Construction | Business Intelligence Student  (term unclear) | Winnipeg, MB, Canada, Calgary, AB, Canada | posted 42 d ago |  | [link](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521) |
 | AMD | ASIC Verification Engineer Intern/Co-op | Ottawa, ON, Canada | posted 47 d ago |  | [link](https://careers.amd.com/jobs/91207?icims=1) |
@@ -144,7 +146,7 @@ Updated 2026-10-20 10:54 UTC
 | AMD | Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | posted 49 d ago |  | [link](https://careers.amd.com/jobs/91359?icims=1) |
 | Trane Technologies | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada | posted 49 d ago |  | [link](https://careers.tranetechnologies.com/global/en/job/JR-7608) |
 | Elk Valley Resources | Geographic Information Systems Co-op | Calgary, AB, Canada | posted 54 d ago |  | [link](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) |
-| Google | Software Developer Intern | Montreal, QC, Canada, Toronto, ON, Canada | posted 56 d ago |  | [link](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
+| Google | Software Developer Intern | Montreal, QC, Canada, Toronto, ON, Canada | posted 57 d ago |  | [link](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
 | NVIDIA | Software Engineering Intern | Canada | posted 62 d ago |  | [link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
 | Epic Games | Machine Learning Intern | Canada | posted 73 d ago |  | [link](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) |
 | Epic Games | Machine Learning Intern - Special Projects - Epic Research Group | Montreal, QC, Canada | posted 73 d ago |  | [link](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
@@ -152,8 +154,8 @@ Updated 2026-10-20 10:54 UTC
 | Google | Student Researcher  (term unclear) | Toronto, ON, Canada, Kitchener, ON, Canada | posted 91 d ago |  | [link](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
 | AMD | Analog/Mixed-Signal Serdes Design Engineer  (term unclear) | Markham, ON, Canada, Ottawa, ON, Canada | posted 96 d ago |  | [link](https://careers.amd.com/jobs/86868?icims=1) |
 | Bree | Machine Learning Engineering Intern  (term unclear) | Toronto, ON, Canada | posted 96 d ago |  | [link](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application?embed=true) |
-| DRW | Software Developer Intern  (year not stated) | Montreal | posted 98 d ago |  | [link](https://job-boards.greenhouse.io/drweng/jobs/7991196) |
-| DRW | AI/ML Research Intern  (year not stated) | Montreal | posted 98 d ago |  | [link](https://job-boards.greenhouse.io/drweng/jobs/7991171) |
+| DRW | Software Developer Intern  (year not stated) | Montreal | posted 99 d ago |  | [link](https://job-boards.greenhouse.io/drweng/jobs/7991196) |
+| DRW | AI/ML Research Intern  (year not stated) | Montreal | posted 99 d ago |  | [link](https://job-boards.greenhouse.io/drweng/jobs/7991171) |
 | Chainlink Labs | Research Intern  (term unclear) | Remote in Canada | posted 117 d ago |  | [link](https://jobs.ashbyhq.com/chainlink-labs/c71ed144-8eb4-4acf-9bf3-137b1b067ed8/application?embed=true) |
 | Corpay | Software Developer Co-op  (term unclear) | Vancouver, BC, Canada | posted 157 d ago |  | [link](https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866) |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance  (term unclear) | Remote in Canada | posted 193 d ago |  | [link](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) |
