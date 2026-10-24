@@ -1,12 +1,12 @@
 # Current matches (189)
 
-Updated 2026-10-24 15:21 UTC
+Updated 2026-10-24 18:17 UTC
 
 | Company | Role | Location | Posted | Note | Apply |
 |---|---|---|---|---|---|
-| John Deere | Software Engineer Intern - Product Engineering  (term unclear) | Waterloo, IA | posted 16 h ago |  | [link](https://johndeere.eightfold.ai/careers/job/137483990265) |
-| American Express | AI Engineer Intern - Enterprise Technology Services | Toronto, ON, Canada | posted 17 h ago |  | [link](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) |
-| Boson Ai | MScAC Intern | Toronto, ON, Canada | posted 17 h ago |  | [link](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) |
+| John Deere | Software Engineer Intern - Product Engineering  (term unclear) | Waterloo, IA | posted 19 h ago |  | [link](https://johndeere.eightfold.ai/careers/job/137483990265) |
+| American Express | AI Engineer Intern - Enterprise Technology Services | Toronto, ON, Canada | posted 20 h ago |  | [link](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) |
+| Boson Ai | MScAC Intern | Toronto, ON, Canada | posted 20 h ago |  | [link](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) |
 | Amazon | Systems Development Engineer Intern | Vancouver, BC, Canada | posted 1 d ago |  | [link](https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027) |
 | RSM | Business Intelligence Consulting Intern | Toronto, ON, Canada, Calgary, AB, Canada | posted 1 d ago |  | [link](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1) |
 | AMA | Architecture Research Intern - Predictive Modelling & Simulations  (term unclear) | Edmonton, AB, Canada | posted 1 d ago |  | [link](https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Predictive-Modelling---Simulations---12-months_JR102921) |
@@ -156,8 +156,8 @@ Updated 2026-10-24 15:21 UTC
 | Lyft | Data Engineer Intern | Toronto, ON, Canada | posted 42 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) |
 | Lyft | Data Science Intern - Algorithms | Toronto, ON, Canada | posted 42 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) |
 | Lyft | Software Developer Intern - Backend  (term unclear) | Montreal, QC, Canada | posted 42 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002) |
-| Lyft | UX Research Intern (Summer 2027) | Toronto, Canada | posted 42 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002) |
-| Lyft | Software Engineer Intern, Test Automation (Summer 2027) | Montreal, Canada | posted 42 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) |
+| Lyft | UX Research Intern (Summer 2027) | Toronto, Canada | posted 43 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002) |
+| Lyft | Software Engineer Intern, Test Automation (Summer 2027) | Montreal, Canada | posted 43 d ago |  | [link](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) |
 | Hexagon AB | Digital Hardware Engineer Intern - GNSS Positioning Digital Team | Calgary, AB, Canada | posted 44 d ago |  | [link](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false) |
 | Bird Construction | Business Intelligence Student  (term unclear) | Winnipeg, MB, Canada, Calgary, AB, Canada | posted 46 d ago |  | [link](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521) |
 | Royal Bank of Canada | Developer & IT Specialist Co-op - Global Asset Management  (term unclear) | Toronto, ON, Canada, Vancouver, BC, Canada | posted 50 d ago |  | [link](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Global-Asset-Management--Winter-Developer---IT-Specialist--4-8-months-_R-0000186669) |
@@ -192,4 +192,4 @@ Updated 2026-10-24 15:21 UTC
 | Brookfield | Artificial Intelligence Intern - Renewable Power & Transition  (term unclear) | Toronto, ON, Canada | posted 161 d ago |  | [link](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741) |
 | Corpay | Software Developer Co-op  (term unclear) | Vancouver, BC, Canada | posted 161 d ago |  | [link](https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866) |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance  (term unclear) | Remote in Canada | posted 197 d ago |  | [link](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) |
-| Databricks | Software Engineering Intern (2027) | Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada | posted 1176 d ago |  | [link](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
+| Databricks | Software Engineering Intern (2027) | Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada | posted 1177 d ago |  | [link](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
